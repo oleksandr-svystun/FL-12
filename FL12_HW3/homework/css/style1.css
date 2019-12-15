@@ -53,7 +53,7 @@ body {
     .header .header-wrap .header_text {
       font-family: Hind, sans-serif;
       font-size: 13px;
-      line-height: 1.2rem;
+      line-height: 1.3rem;
       margin-bottom: 50px; }
     .header .header-wrap .header_button {
       background-color: #699900;
@@ -115,7 +115,7 @@ main {
         main .section_card_wrap .section_card .section_card_right_container .section_card_text {
           font-family: Hind, sans-serif;
           font-size: 12px;
-          line-height: 1.2rem;
+          line-height: 1.3rem;
           color: #bac3ce; }
         main .section_card_wrap .section_card .section_card_right_container .section_link {
           color: #bac3ce;
@@ -187,6 +187,6 @@ main {
   .footer-wrap .footer_text {
     width: 200px;
     font-size: 11px;
-    line-height: 1.2rem; }
+    line-height: 1.3rem; }
   .footer-wrap .footer-cr {
     font-size: 13px; }
